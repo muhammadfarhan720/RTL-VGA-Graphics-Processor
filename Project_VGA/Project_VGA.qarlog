@@ -1,0 +1,42 @@
+Quartus Prime Archive log --	C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/Project_VGA.qarlog
+
+Archive:	C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/Project_VGA.qar
+Date:		Mon Apr  8 17:27:15 2024
+Quartus Prime		23.1std.0 Build 991 11/28/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.cmp
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.sip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.spd
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10/PLL_10_0002.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10/PLL_10_0002.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10_sim/PLL_10.vo
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.cmp
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.sip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.spd
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30/PLL_30_0002.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30/PLL_30_0002.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30_sim/PLL_30.vo
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/Project_VGA.qpf
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/Project_VGA.qsf
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.cmp
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.sip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.spd
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator/clock_generator_0002.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator/clock_generator_0002.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator_sim/clock_generator.vo
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/pattern_generator.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/tb_VGA.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/top.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/vga_controller.sv
+c:/intelfpga_lite/23.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 31 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

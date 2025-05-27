@@ -1,0 +1,139 @@
+Archive Project report for Project_VGA
+Tue Apr 30 14:45:28 2024
+Quartus Prime Version 23.1std.0 Build 991 11/28/2023 SC Lite Edition
+
+
+---------------------
+; Table of Contents ;
+---------------------
+  1. Legal Notice
+  2. Archive Project Summary
+  3. Archive Project Messages
+  4. Files Archived
+
+
+
+----------------
+; Legal Notice ;
+----------------
+Copyright (C) 2023  Intel Corporation. All rights reserved.
+Your use of Intel Corporation's design tools, logic functions 
+and other software and tools, and any partner logic 
+functions, and any output files from any of the foregoing 
+(including device programming or simulation files), and any 
+associated documentation or information are expressly subject 
+to the terms and conditions of the Intel Program License 
+Subscription Agreement, the Intel Quartus Prime License Agreement,
+the Intel FPGA IP License Agreement, or other applicable license
+agreement, including, without limitation, that your use is for
+the sole purpose of programming logic devices manufactured by
+Intel and sold by Intel or its authorized distributors.  Please
+refer to the applicable agreement for further details, at
+https://fpgasoftware.intel.com/eula.
+
+
+
++----------------------------------------------------------------+
+; Archive Project Summary                                        ;
++------------------------+---------------------------------------+
+; Archive Project Status ; Successful - Tue Apr 30 14:45:28 2024 ;
+; Revision Name          ; Project_VGA                           ;
+; Top-level Entity Name  ; top                                   ;
+; Family                 ; Cyclone V                             ;
++------------------------+---------------------------------------+
+
+
++--------------------------+
+; Archive Project Messages ;
++--------------------------+
+Info: File Set 'Source control' contains:
+    Info: Project source and settings files
+    Info: Automatically detected source files
+Warning: Hierarchical Platform Designer systems and custom IP components(_hw.tcl and associated files) are not archived by the Quartus Archiver
+Info: Archive will store files relative to the closest common parent directory
+Info (13213): Using common directory C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated archive 'C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/Project_pokemon_final.qar'
+Info: ----------------------------------------------------------
+Info: ----------------------------------------------------------
+Info: Generated report 'Project_VGA.archive.rpt'
+Info (23030): Evaluation of Tcl script c:/intelfpga_lite/23.1std/quartus/common/tcl/apps/qpm/qar.tcl was successful
+Info: Quartus Prime Shell was successful. 0 errors, 1 warning
+    Info: Peak virtual memory: 4839 megabytes
+    Info: Processing ended: Tue Apr 30 14:45:28 2024
+    Info: Elapsed time: 00:00:03
+    Info: Total CPU time (on all processors): 00:00:01
+
+
++-----------------------------------------------------------------+
+; Files Archived                                                  ;
++-----------------------------------------------------------------+
+; File Name                                                       ;
++-----------------------------------------------------------------+
+; c:/intelfpga_lite/23.1std/quartus/bin64/assignment_defaults.qdf ;
+; clock_generator.cmp                                             ;
+; clock_generator.qip                                             ;
+; clock_generator.sip                                             ;
+; clock_generator.spd                                             ;
+; clock_generator.v                                               ;
+; clock_generator/clock_generator_0002.qip                        ;
+; clock_generator/clock_generator_0002.v                          ;
+; clock_generator_sim/clock_generator.vo                          ;
+; frame_buffer.sv                                                 ;
+; keypress.sv                                                     ;
+; pattern_generator.sv                                            ;
+; PLL_10.cmp                                                      ;
+; PLL_10.qip                                                      ;
+; PLL_10.sip                                                      ;
+; PLL_10.spd                                                      ;
+; PLL_10.v                                                        ;
+; PLL_10/PLL_10_0002.qip                                          ;
+; PLL_10/PLL_10_0002.v                                            ;
+; PLL_10_sim/PLL_10.vo                                            ;
+; PLL_30.cmp                                                      ;
+; PLL_30.qip                                                      ;
+; PLL_30.sip                                                      ;
+; PLL_30.spd                                                      ;
+; PLL_30.v                                                        ;
+; PLL_30/PLL_30_0002.qip                                          ;
+; PLL_30/PLL_30_0002.v                                            ;
+; PLL_30_sim/PLL_30.vo                                            ;
+; Project_VGA.qpf                                                 ;
+; Project_VGA.qsf                                                 ;
+; sprite_roms/attack_rom_b.v                                      ;
+; sprite_roms/attack_rom_g.v                                      ;
+; sprite_roms/attack_rom_r.v                                      ;
+; sprite_roms/char_rom_b.sv                                       ;
+; sprite_roms/char_rom_g.sv                                       ;
+; sprite_roms/char_rom_r.sv                                       ;
+; sprite_roms/dragon_rom_b.sv                                     ;
+; sprite_roms/dragon_rom_g.sv                                     ;
+; sprite_roms/dragon_rom_r.sv                                     ;
+; sprite_roms/ekans_rom_b.v                                       ;
+; sprite_roms/ekans_rom_g.v                                       ;
+; sprite_roms/ekans_rom_r.v                                       ;
+; sprite_roms/flameat_rom_b.sv                                    ;
+; sprite_roms/flameat_rom_g.sv                                    ;
+; sprite_roms/flameat_rom_r.sv                                    ;
+; sprite_roms/heart_rom_b.v                                       ;
+; sprite_roms/heart_rom_g.v                                       ;
+; sprite_roms/heart_rom_r.v                                       ;
+; sprite_roms/pika_name_b.sv                                      ;
+; sprite_roms/pika_name_g.sv                                      ;
+; sprite_roms/pika_name_r.sv                                      ;
+; sprite_roms/pika_rom_b.v                                        ;
+; sprite_roms/pika_rom_g.v                                        ;
+; sprite_roms/pika_rom_r.v                                        ;
+; sprite_roms/raichu_rom_b.sv                                     ;
+; sprite_roms/raichu_rom_g.sv                                     ;
+; sprite_roms/raichu_rom_r.sv                                     ;
+; sprite_roms/run_rom_b.v                                         ;
+; sprite_roms/run_rom_g.v                                         ;
+; sprite_roms/run_rom_r.v                                         ;
+; tb_VGA.sv                                                       ;
+; top.sv                                                          ;
+; vga_controller.sv                                               ;
++-----------------------------------------------------------------+
+
+

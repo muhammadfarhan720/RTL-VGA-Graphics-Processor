@@ -1,0 +1,20 @@
+Quartus Prime Archive log --	C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/__Project_VGA.auto.qarlog
+
+Archive:	C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/__Project_VGA.auto.qar
+Date:		Tue Apr  2 16:59:42 2024
+Quartus Prime		23.1std.0 Build 991 11/28/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/db/Project_VGA.qpf
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/output_files/Project_VGA.flow.rpt
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/output_files/Project_VGA.map.rpt
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/output_files/Project_VGA.map.summary
+Project_VGA.qsf
+c:/intelfpga_lite/23.1std/quartus/bin64/assignment_defaults.qdf
+pattern_generator.sv
+top.sv
+vga_controller.sv
+	======= Total: 9 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

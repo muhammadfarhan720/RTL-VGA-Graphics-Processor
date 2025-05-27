@@ -1,0 +1,29 @@
+
+State Machine - |top|pattern_generator:pattern_gen1|cur_state
+Name cur_state.SKILL3 cur_state.SKILL2 cur_state.SKILL1 cur_state.ATTACK4 cur_state.ATTACK3 cur_state.ATTACK2 cur_state.ATTACK1 cur_state.STATIC 
+cur_state.STATIC 0 0 0 0 0 0 0 0 
+cur_state.ATTACK1 0 0 0 0 0 0 1 1 
+cur_state.ATTACK2 0 0 0 0 0 1 0 1 
+cur_state.ATTACK3 0 0 0 0 1 0 0 1 
+cur_state.ATTACK4 0 0 0 1 0 0 0 1 
+cur_state.SKILL1 0 0 1 0 0 0 0 1 
+cur_state.SKILL2 0 1 0 0 0 0 0 1 
+cur_state.SKILL3 1 0 0 0 0 0 0 1 
+
+State Machine - |top|keypress:k3|key_state
+Name key_state.KEY_UNPRESSED key_state.KEY_RELEASED key_state.KEY_PRESSED 
+key_state.KEY_UNPRESSED 0 0 0 
+key_state.KEY_PRESSED 1 0 1 
+key_state.KEY_RELEASED 1 1 0 
+
+State Machine - |top|keypress:k2|key_state
+Name key_state.KEY_UNPRESSED key_state.KEY_RELEASED key_state.KEY_PRESSED 
+key_state.KEY_UNPRESSED 0 0 0 
+key_state.KEY_PRESSED 1 0 1 
+key_state.KEY_RELEASED 1 1 0 
+
+State Machine - |top|keypress:k1|key_state
+Name key_state.KEY_UNPRESSED key_state.KEY_RELEASED key_state.KEY_PRESSED 
+key_state.KEY_UNPRESSED 0 0 0 
+key_state.KEY_PRESSED 1 0 1 
+key_state.KEY_RELEASED 1 1 0 

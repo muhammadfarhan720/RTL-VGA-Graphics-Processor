@@ -1,0 +1,74 @@
+Quartus Prime Archive log --	C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/Project_pokemon_final.qarlog
+
+Archive:	C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/Project_pokemon_final.qar
+Date:		Tue Apr 30 14:45:28 2024
+Quartus Prime		23.1std.0 Build 991 11/28/2023 SC Lite Edition
+
+	=========== Files Selected: ===========
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.cmp
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.sip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.spd
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10/PLL_10_0002.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10/PLL_10_0002.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10_sim/PLL_10.vo
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.cmp
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.sip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.spd
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30/PLL_30_0002.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30/PLL_30_0002.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30_sim/PLL_30.vo
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/Project_VGA.qpf
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/Project_VGA.qsf
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.cmp
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.sip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.spd
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator/clock_generator_0002.qip
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator/clock_generator_0002.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator_sim/clock_generator.vo
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/frame_buffer.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/keypress.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/pattern_generator.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_b.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_g.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_r.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/char_rom_b.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/char_rom_g.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/char_rom_r.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/dragon_rom_b.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/dragon_rom_g.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/dragon_rom_r.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_b.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_g.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_r.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/flameat_rom_b.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/flameat_rom_g.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/flameat_rom_r.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_b.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_g.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_r.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_name_b.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_name_g.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_name_r.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_b.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_g.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_r.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/raichu_rom_b.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/raichu_rom_g.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/raichu_rom_r.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_b.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_g.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_r.v
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/tb_VGA.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/top.sv
+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/vga_controller.sv
+c:/intelfpga_lite/23.1std/quartus/bin64/assignment_defaults.qdf
+	======= Total: 63 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.

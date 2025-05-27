@@ -1,0 +1,587 @@
+m255
+K4
+z2
+!s12c _opt
+Z0 !s99 nomlopt
+!s11f vlog 2023.3 2023.07, Jul 17 2023
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 dC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/simulation/questa
+T_opt
+!s110 1713910206
+VETl5JO^To6CbD4V_>zecY1
+04 6 4 work tb_VGA fast 0
+=1-8cb87eafc4a4-662831bd-224-5030
+R0
+!s12b OEM100
+!s124 OEM10U21 
+o-quiet -auto_acc_if_foreign -work work -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cyclonev_ver -L cyclonev_hssi_ver -L cyclonev_pcie_hip_ver -L rtl_work -L work +acc
+Z2 tCvgOpt 0
+n@_opt
+OL;O;2023.3;77
+vattack_rom_b
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_b.v
+Z3 !s110 1713910203
+!i10b 1
+!s100 28d[N?R73:I8^298o[oo;0
+Ia<50]On1fKNo9MQb71NNA3
+R1
+w1713819737
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_b.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_b.v
+!i122 17
+Z4 L0 2 1039
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OL;L;2023.3;77
+r1
+!s85 0
+31
+Z7 !s108 1713910202.000000
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_b.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_b.v|
+!i113 0
+Z8 o-vlog01compat -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z9 !s92 -vlog01compat -work work +incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vattack_rom_g
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_g.v
+Z10 !s110 1713910202
+!i10b 1
+!s100 ?klWnjL9=L98je`0D[ShM3
+Ik6GLLT0h:_NO:dJjiUSYO2
+R1
+w1713819740
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_g.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_g.v
+!i122 16
+R4
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_g.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_g.v|
+!i113 0
+R8
+R9
+R2
+vattack_rom_r
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_r.v
+R10
+!i10b 1
+!s100 bF8=db4?c30e@4aedSD3R0
+Iz9UE<OzLYFQ^Hz6__E0om2
+R1
+w1713819734
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_r.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_r.v
+!i122 15
+Z11 L0 1 1039
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_r.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/attack_rom_r.v|
+!i113 0
+R8
+R9
+R2
+vclock_generator
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator_sim/clock_generator.vo
+Z12 !s110 1713910199
+!i10b 1
+!s100 ;55ScH8DWANkLk]`<2Q>U3
+IZ?Y8bGPO90PzSg_YETC_C0
+R1
+w1712513699
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator_sim/clock_generator.vo
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator_sim/clock_generator.vo
+!i122 0
+Z13 L0 32 264
+R5
+R6
+r1
+!s85 0
+31
+Z14 !s108 1713910199.000000
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator_sim/clock_generator.vo|
+!s90 -reportprogress|300|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/clock_generator_sim/clock_generator.vo|
+!i113 0
+Z15 o-L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vekans_rom_b
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_b.v
+R10
+!i10b 1
+!s100 KA7?B0Sg39l>I[Ei`UJ[d3
+IY66gAf41>7QFGEF5TVihU0
+R1
+w1713814138
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_b.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_b.v
+!i122 14
+Z16 L0 2 4111
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_b.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_b.v|
+!i113 0
+R8
+R9
+R2
+vekans_rom_g
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_g.v
+R10
+!i10b 1
+!s100 FW4E=4PD=CPSNDLVk8`CH2
+I60GFLnhb^z=O6zkY__lkN0
+R1
+w1713814135
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_g.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_g.v
+!i122 13
+R16
+R5
+R6
+r1
+!s85 0
+31
+R7
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_g.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_g.v|
+!i113 0
+R8
+R9
+R2
+vekans_rom_r
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_r.v
+R10
+!i10b 1
+!s100 o8:azY1JALFTaAEFLJ:ko0
+I[hD2R<6Z?gM;ZfIPEkLG`3
+R1
+w1713814308
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_r.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_r.v
+!i122 12
+Z17 L0 1 4111
+R5
+R6
+r1
+!s85 0
+31
+Z18 !s108 1713910201.000000
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_r.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/ekans_rom_r.v|
+!i113 0
+R8
+R9
+R2
+vframe_buffer
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/frame_buffer.sv
+Z19 DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+R3
+!i10b 1
+!s100 gReOWWzOb5In:9:lQLM]m3
+IndceaYmVR<ljXQ[URJ>K63
+S1
+R1
+w1713810630
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/frame_buffer.sv
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/frame_buffer.sv
+!i122 18
+L0 1 13
+R5
+R6
+r1
+!s85 0
+31
+Z20 !s108 1713910203.000000
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/frame_buffer.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/frame_buffer.sv|
+!i113 0
+Z21 o-sv -work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z22 !s92 -sv -work work +incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vheart_rom_b
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_b.v
+Z23 !s110 1713910201
+!i10b 1
+!s100 J<<Nm;Pzan5zGSeZnRnWJ1
+IN2PCV3VV0f[i?R<@^HUBf3
+R1
+w1713816626
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_b.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_b.v
+!i122 11
+Z24 L0 2 527
+R5
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_b.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_b.v|
+!i113 0
+R8
+R9
+R2
+vheart_rom_g
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_g.v
+R23
+!i10b 1
+!s100 bh[DWXL3J0hPn:m4mLG1^2
+IIY>ld9Yf8?L8:^_`Oo@^50
+R1
+w1713816629
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_g.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_g.v
+!i122 10
+R24
+R5
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_g.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_g.v|
+!i113 0
+R8
+R9
+R2
+vheart_rom_r
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_r.v
+R23
+!i10b 1
+!s100 OR>3Ici3]=Sh@J;Uh2^=b2
+IXP]?CK2QlIJ1fnF1Qzndm0
+R1
+w1713816633
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_r.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_r.v
+!i122 9
+L0 1 527
+R5
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_r.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/heart_rom_r.v|
+!i113 0
+R8
+R9
+R2
+vpattern_generator
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/pattern_generator.sv
+R19
+R3
+!i10b 1
+!s100 IFQDKEa5]149MWa_oSoNi1
+I6A;9W?h[Ok3>bUM@BXXzY1
+S1
+R1
+w1713910162
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/pattern_generator.sv
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/pattern_generator.sv
+!i122 21
+L0 1 170
+R5
+R6
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/pattern_generator.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/pattern_generator.sv|
+!i113 0
+R21
+R22
+R2
+vpika_rom_b
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_b.v
+R23
+!i10b 1
+!s100 631WJjc1`Dc@l;P@PGj:h3
+IKk6dJS>@FhW^<GkOIbfJ>3
+R1
+w1713816637
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_b.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_b.v
+!i122 8
+R16
+R5
+R6
+r1
+!s85 0
+31
+R18
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_b.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_b.v|
+!i113 0
+R8
+R9
+R2
+vpika_rom_g
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_g.v
+R23
+!i10b 1
+!s100 PN3IfI0Ajz@5j[GeR<no_1
+I0^T;^c2a4[R?A77mHohkJ0
+R1
+w1713816640
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_g.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_g.v
+!i122 7
+R16
+R5
+R6
+r1
+!s85 0
+31
+Z25 !s108 1713910200.000000
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_g.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_g.v|
+!i113 0
+R8
+R9
+R2
+vpika_rom_r
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_r.v
+Z26 !s110 1713910200
+!i10b 1
+!s100 ?`GL7UCKN5ig]eni_TK]G1
+I7>kU@3>>Lj6OXkek2PnUJ0
+R1
+w1713816643
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_r.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_r.v
+!i122 6
+R17
+R5
+R6
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_r.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/pika_rom_r.v|
+!i113 0
+R8
+R9
+R2
+vPLL_10
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10_sim/PLL_10.vo
+R26
+!i10b 1
+!s100 >bZXlkdCgKY6C<0aoVjA^0
+I@bTff?47EQ3zi4Gd`2GT30
+R1
+w1712611335
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10_sim/PLL_10.vo
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10_sim/PLL_10.vo
+!i122 2
+R13
+R5
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10_sim/PLL_10.vo|
+!s90 -reportprogress|300|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_10_sim/PLL_10.vo|
+!i113 0
+R15
+R2
+n@p@l@l_10
+vPLL_30
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30_sim/PLL_30.vo
+R12
+!i10b 1
+!s100 mL@;hg@07Q4bN:d@CI[Y71
+I1emcWei^b61kHe883d1XT1
+R1
+w1712611167
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30_sim/PLL_30.vo
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30_sim/PLL_30.vo
+!i122 1
+R13
+R5
+R6
+r1
+!s85 0
+31
+R14
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30_sim/PLL_30.vo|
+!s90 -reportprogress|300|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/PLL_30_sim/PLL_30.vo|
+!i113 0
+R15
+R2
+n@p@l@l_30
+vrun_rom_b
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_b.v
+R26
+!i10b 1
+!s100 R_@f>_LMKU0k0jB8_=:Hk1
+IPz=VGTAdgM=mF6keW28Y^3
+R1
+w1713820147
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_b.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_b.v
+!i122 5
+R4
+R5
+R6
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_b.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_b.v|
+!i113 0
+R8
+R9
+R2
+vrun_rom_g
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_g.v
+R26
+!i10b 1
+!s100 e@]4R7X<KD83i?e46Vh^G2
+I1gQKK7dYdQRkPhDmdYEJH0
+R1
+w1713820150
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_g.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_g.v
+!i122 4
+R4
+R5
+R6
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_g.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_g.v|
+!i113 0
+R8
+R9
+R2
+vrun_rom_r
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_r.v
+R26
+!i10b 1
+!s100 O:Ri4Yjloh2Ub4^jmgMfX2
+Id`WVaSkD2i9a5YIn07@4Z0
+R1
+w1713820153
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_r.v
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_r.v
+!i122 3
+R11
+R5
+R6
+r1
+!s85 0
+31
+R25
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_r.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/sprite_roms/run_rom_r.v|
+!i113 0
+R8
+R9
+R2
+vtb_VGA
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/tb_VGA.sv
+R19
+!s110 1713910204
+!i10b 1
+!s100 dX>=JTdzL8lk7Lg7G[G;g2
+I[XJ]WgRZPTmP=U_XCFDB:3
+S1
+R1
+w1712592117
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/tb_VGA.sv
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/tb_VGA.sv
+!i122 22
+L0 2 22
+R5
+R6
+r1
+!s85 0
+31
+!s108 1713910204.000000
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/tb_VGA.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/tb_VGA.sv|
+!i113 0
+R21
+R22
+R2
+ntb_@v@g@a
+vtop
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/top.sv
+R19
+R3
+!i10b 1
+!s100 mJH?Z`3ajIWIlGai:2hYl2
+IH?2Fk_AM0:P2UUT5XS18K0
+S1
+R1
+w1713818987
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/top.sv
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/top.sv
+!i122 20
+L0 1 100
+R5
+R6
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/top.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/top.sv|
+!i113 0
+R21
+R22
+R2
+vvga_controller
+2C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/vga_controller.sv
+R19
+R3
+!i10b 1
+!s100 _[l@gm:iiNATK^98K=<^P2
+Ig:2Q?D:gRE>MZgEiBEkfJ3
+S1
+R1
+w1712603949
+8C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/vga_controller.sv
+FC:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/vga_controller.sv
+!i122 19
+L0 1 51
+R5
+R6
+r1
+!s85 0
+31
+R20
+!s107 C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/vga_controller.sv|
+!s90 -reportprogress|300|-sv|-work|work|+incdir+C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA|C:/Users/chunx/OneDrive/Desktop/4514Course/Projects/Project_VGA/vga_controller.sv|
+!i113 0
+R21
+R22
+R2
