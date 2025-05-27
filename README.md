@@ -7,6 +7,16 @@ This project implements RTL SystemVerilog design of a custom graphics processor 
 - **Precise VGA Timing**: VGA scanner controller implemented using pixel and line counters with synchronization FSM.
 - **PLL-IP Integration**:  Performed  clock synchronization among VGA scanner controller, FSM \& key debouncing circuit through Phased-Locked-Loop IP generated clock at 25.175 MHz
 
+
+## Most important RTL files
+- pattern_generator.sv
+- vga_controller.sv
+- top.sv
+- bitmap of Sprites sprite_roms folder for storage in frame buffer
+  
+
+
+
 ## Technologies
 
 - SystemVerilog HDL
