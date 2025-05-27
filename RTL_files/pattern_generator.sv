@@ -5,12 +5,6 @@
 // Date:     May 2024
 // Revision: 1
 //
-// Description: This synchronous finite-state machine generates an ACTIVE-HIGH enable pulse that
-//              lasts for one clock period each time an ACTIVE-LOW key is pressed and released.
-//
-//              Specifically, the enable pulse occurs during the clock period AFTER the key is
-//              released.
-//
 ////////////////////////////////////////////////////////////////////////////////////////////////////
 
 module pattern_generator(
