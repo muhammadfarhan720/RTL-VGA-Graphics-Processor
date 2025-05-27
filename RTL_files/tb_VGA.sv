@@ -1,3 +1,15 @@
+////////////////////////////////////////////////////////////////////////////////////////////////////
+//
+// Filename: tb_VGA.sv
+// Author:   Muhammad Farhan Azmine
+// Date:     May 2024
+// Revision: 1
+// Description : This testbench is only for validating the synchronization of the hsync and vsync signals of Graphics Processor with top.sv instatiation
+////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+
+
 `timescale 1ns/1ns
 module tb_VGA;
 	logic   clock, reset_n;
