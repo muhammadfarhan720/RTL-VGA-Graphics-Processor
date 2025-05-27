@@ -1,5 +1,5 @@
 # RTL-VGA-Graphics-Processor
-This project implements RTL SystemVerilog design of a custom graphics processor pipeline, featuring real-time VGA signal generation and sprite rendering using FSM-based control logic and PLL-generated clocks.
+This project implements RTL SystemVerilog design of a custom graphics processor pipeline, with real-time VGA signal generation and spriteROM rendering through FSM-based control logic and PLL-generated IP clocks.
 
 ## Key Features
 - **Custom Graphics Processor**: Designed a game scenario through SpriteROM bitmap generation for 24-bit RGB VGA color pixel vectors and controlled sprite movement through FSM controller based pixel synchronization with VGA scanner pixel counters.
