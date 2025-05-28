@@ -19,6 +19,9 @@ This project implements RTL SystemVerilog design of a custom graphics processor 
 - bitmap of Sprites sprite_roms folder for storage in frame buffer
   
 
+## Top Architecture Overview
+
+![GPU_VGA_Top_Overview](https://github.com/user-attachments/assets/605c0967-3974-483e-9c13-66337c265110)
 
 
 ## Technologies
