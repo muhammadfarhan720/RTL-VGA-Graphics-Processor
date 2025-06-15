@@ -6,7 +6,7 @@ This project implements RTL SystemVerilog design of a custom graphics processor 
 
 
 ## Key Features
-- **Custom Graphics Processor**: Designed a game scenario through SpriteROM bitmap generation for 24-bit RGB VGA color pixel vectors and controlled sprite movement through FSM controller based pixel synchronization with VGA scanner pixel counters.
+- **Custom Graphics Processor**: Designed a fighting match game scenario through SpriteROM bitmap generation for 24-bit RGB VGA color pixel vectors and controlled sprite movement through FSM controller based pixel synchronization with VGA scanner pixel counters.
 - **24-bit RGB VGA Output**: Real-time pixel generation from Sprite ROM memory frame buffer to VGA using bitmap sprite data.
 - **Precise VGA Timing**: VGA scanner controller implemented using pixel and line counters with synchronization FSM.
 - **PLL-IP Integration**:  Performed  clock synchronization among VGA scanner controller, FSM \& key debouncing circuit through Phased-Locked-Loop IP generated clock at 25.175 MHz
