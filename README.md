@@ -16,7 +16,7 @@ This project implements RTL SystemVerilog design of a custom graphics processor 
 - **PLL-IP Integration**:  Performed  clock synchronization among VGA scanner controller, FSM \& key debouncing circuit through Phased-Locked-Loop IP generated clock at 25.175 MHz
 
 
-## Most important RTL files
+## Most important SystemVerilog_RTL
 - pattern_generator.sv
 - vga_controller.sv
 - top.sv
