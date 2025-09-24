@@ -5,9 +5,11 @@ This project implements RTL SystemVerilog design of a custom graphics processor 
 
 
 
-## Key Features
 
 ![Model_frame_buffer](https://github.com/user-attachments/assets/a0672632-f958-4f23-abb6-4d1be2cad7f6)
+
+
+## Key Features
 
 
 - **Custom Graphics Processor**: Designed a fighting match game scenario through SpriteROM bitmap generation for 24-bit RGB VGA color pixel vectors and controlled sprite movement through FSM controller based pixel synchronization with VGA scanner pixel counters.
